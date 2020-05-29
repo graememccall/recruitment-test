@@ -1,3 +1,5 @@
+
+![](https://www.marketbeat.com/logos/computershare-limited-logo.jpg)
 # Java Developer Recruitment Test
 Thanks for your interest in a developer role at Computershare, and taking the time to do our technical challenge. It consists of two parts:
 
@@ -13,11 +15,15 @@ Once completed, please submit your solution as a zip or github link to someaddre
 
 #### User Story 
 As a **user running the system**
+
 I can **view basic stock information on a company**
+
 So that **I can make a decision on what stock to buy**
 
 As a **user running the system**
+
 I can **export basic stock information on a company in JSON format**
+
 So that **I can import it to other systems**
 
 ### Challenge (option 2)
