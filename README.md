@@ -20,6 +20,7 @@ I can **view basic stock information on a company**
 
 So that **I can make a decision on what stock to buy**
 
+
 As a **user running the system**
 
 I can **export basic stock information on a company in JSON format**
